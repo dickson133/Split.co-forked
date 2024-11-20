@@ -8,6 +8,18 @@ export default function Home() {
         src="favicon.ico"
         alt="justanimage"
       />
+      <h1
+        className="heading1"
+      >Next.js</h1>
+      <h2
+        className="heading2"
+      >Home</h2>
+      <h2
+        className="heading2"
+      >Introduction</h2>
+      <h2
+        className="heading2"
+      >Menu</h2>
     </div>
   );
 }
