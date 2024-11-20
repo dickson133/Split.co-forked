@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="justadiv">
-      <img 
+      <Image 
         className="justanimage"
         src="favicon.ico"
         alt="justanimage"
