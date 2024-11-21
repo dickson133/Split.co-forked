@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function about() {
   return (
     <div className="justadiv">
       <Image 
@@ -15,13 +15,13 @@ export default function Home() {
       >Split.co</h1>
       <h2
         className="heading2"
-      >Home</h2>
+      >About</h2>
       <h2
         className="heading2"
-      >Introduction</h2>
+      >bruh</h2>
       <h2
         className="heading2"
-      >Menu</h2>
+      >damn</h2>
     </div>
   );
 }
